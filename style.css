@@ -1,0 +1,35 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+section {
+  padding-top: 5rem;
+  background-color: var(--bs-body-bg);
+}
+footer p {
+  background-color: var(--bs-body-bg);
+}
+.container .navbar-brand {
+  color: #009688;
+}
+.navbar-brand span {
+  color: var(--text-body-bg);
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: var(--bs-body-bg);
+  text-align: center;
+}
+#Projects {
+  background-color: var(--bs-body-bg);
+}
+
+
+
+.text-footer {
+  color:#009688 ;
+}
